@@ -3,7 +3,7 @@
 - Visas<br>
 - World Insurance<br>
   - [X] J<br>
-  - [ ] Jordan<br>
+  - [X] Jordan<br>
 - International Driver's License (AAA $20)<br>
 - Charles Schwab<br>
   - [X] J<br>
