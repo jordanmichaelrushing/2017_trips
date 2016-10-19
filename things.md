@@ -18,3 +18,5 @@
 
 ### Things to consider:<br>
 - William's Presonal Army<br>
+
+## Places to Stay (with links):<br>
